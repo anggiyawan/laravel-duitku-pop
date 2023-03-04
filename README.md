@@ -11,4 +11,4 @@
 
 ## About
 
-Laravel Duitku Pop Payment Gateway Example demo page
+Laravel 10.2.0 Duitku Pop Payment Gateway Example demo page
